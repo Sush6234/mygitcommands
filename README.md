@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sush6234
-- 👀 I’m interested in learning...Python,Data Science and Advanced concepts.
+- 👀 I’m interested in learning...Python,devops tools and latest technologies
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Sush6234@gmail.com
